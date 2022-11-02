@@ -33,5 +33,10 @@ php artisan migrate
 
 Run seeder command to insert dummy data  
 ```twig
-php artisan migrate
+php artisan db:seed
+```
+
+run the project
+```twig
+php artisan serve
 ```
